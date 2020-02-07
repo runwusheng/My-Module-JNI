@@ -1,0 +1,2 @@
+include ':app', ':toaster', ':MessageProvider', ':mainactivitylibrary', ':mainactivitylibrary2'
+rootProject.name='My Module JNI'
